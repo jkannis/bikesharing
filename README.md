@@ -21,7 +21,7 @@ The data used to support this proposal was taken from the New York City bikeshar
 
 - The complete Tableau dashboard is available online
 
-![Link to Dashboard]("https://public.tableau.com/views/BikesharingChallenge_16490272253120/BikesharinginDesMoines?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link")
+![Link to Dashboard](https://public.tableau.com/views/BikesharingChallenge_16490272253120/BikesharinginDesMoines?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Summary
 - The bikesharing program in NYC is very successful and highly utilized. Based on this data, a bikesharing program should be pursued for Des Moines, Iowa.
